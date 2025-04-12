@@ -14,5 +14,3 @@ This project uses a Bluetooth sensor to unlock a device (e.g., a smartphone or d
 - Bluetooth module (e.g., HC-05)
 - Embedded C / Arduino IDE
 
-## Status
-Code not uploaded yet — will be added soon.
